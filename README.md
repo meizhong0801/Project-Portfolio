@@ -12,8 +12,8 @@ Based on the analysis of the acceptance rates across different conditions, we ca
 [Data](https://github.com/meizhong0801/Project-Portfolio/blob/main/data/coupons.csv)
 
 ## bar plot to visualize the `coupon` column
-![alt text](images\image.png)
+![alt text](images/image.png)
 ## histogram to visualize the temperature column
-![alt text](images\image-1.png)
+![alt text](images/image-1.png)
 ## bar plot for bar coupon acceptance by passenger type
-![alt text](images\image-2.png)
+![alt text](images/image-2.png)
